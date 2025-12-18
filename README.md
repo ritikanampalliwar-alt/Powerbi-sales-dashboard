@@ -34,8 +34,9 @@ To build a **business-ready dashboard** that demonstrates practical skills in:
 - 
 ## Repository Structure
 --**Data**:<a href "https://github.com/ritikanampalliwar-alt/Powerbi-sales-dashboard/blob/main/Sample%20-%20Superstore.csv"</a>
---**Dashboard**:
---**Images**:
+--**Dashboard**:https://github.com/ritikanampalliwar-alt/Powerbi-sales-dashboard/blob/main/Ritika%20Dashboard%20Superstore%20Sales%20Analysis.pbix
+--**Images**:<img width="1325" height="739" alt="Dashborad-overview" src="https://github.com/user-attachments/assets/3c9af4ef-0a32-4b8b-97df-11355cf74c7c" />
+
 ---
 ##  Author
 **Ritika Nampalliwar**  
