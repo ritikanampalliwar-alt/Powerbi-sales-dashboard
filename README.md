@@ -33,7 +33,7 @@ To build a **business-ready dashboard** that demonstrates practical skills in:
 - Sample Superstore dataset (commonly used for analytics practice)
 - 
 ## Repository Structure
---**Data**:<a href "https://https://github.com/ritikanampalliwar-alt/Powerbi-sales-dashboard/blob/main/Sample%20-%20Superstore.csv"</a>
+--**Data**:<a href "https://github.com/ritikanampalliwar-alt/Powerbi-sales-dashboard/blob/main/Sample%20-%20Superstore.csv"</a>
 --**Dashboard**:
 --**Images**:
 ---
